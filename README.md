@@ -3,6 +3,9 @@ Parking Sensor for toy cars that emits green or red LED based on distance detect
 
 
 
+https://github.com/user-attachments/assets/713b8abc-7a61-4797-9ba3-7ee7b0923bc2
+
+
 Components used: 1 Arduino Uno, 1 breadboard, 1 HC-SR04 Ultrasonic sensor, 1 green LED, 1 Red LED, 1 active buzzer, 2 220 Ohm resistors, jumper wires
 
 
